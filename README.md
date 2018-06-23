@@ -7,6 +7,7 @@ Clone or download this repo on your local maсhine. Open `index.html` in your br
 ## How to play
 
 Just click over the image of cat and count your clicks.
+You can also try [play now](https://olkruglova.github.io/Cat-Clicker/).
 
 ## Contributing
 
